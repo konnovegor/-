@@ -1,0 +1,9 @@
+C:\Users\Игрок\source\repos\Lab rabota 1\Lab rabota 1\obj\Debug\Lab rabota 1.csprojAssemblyReference.cache
+C:\Users\Игрок\source\repos\Lab rabota 1\Lab rabota 1\obj\Debug\Lab_rabota_1.Form1.resources
+C:\Users\Игрок\source\repos\Lab rabota 1\Lab rabota 1\obj\Debug\Lab_rabota_1.Properties.Resources.resources
+C:\Users\Игрок\source\repos\Lab rabota 1\Lab rabota 1\obj\Debug\Lab rabota 1.csproj.GenerateResource.cache
+C:\Users\Игрок\source\repos\Lab rabota 1\Lab rabota 1\bin\Debug\Lab rabota 1.exe.config
+C:\Users\Игрок\source\repos\Lab rabota 1\Lab rabota 1\bin\Debug\Lab rabota 1.exe
+C:\Users\Игрок\source\repos\Lab rabota 1\Lab rabota 1\bin\Debug\Lab rabota 1.pdb
+C:\Users\Игрок\source\repos\Lab rabota 1\Lab rabota 1\obj\Debug\Lab rabota 1.exe
+C:\Users\Игрок\source\repos\Lab rabota 1\Lab rabota 1\obj\Debug\Lab rabota 1.pdb
